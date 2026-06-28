@@ -1,4 +1,14 @@
-# Reporting Security Vulnerabilities
-If you discover a security vulnerability in OpenEMR, there are two options for reporting  the vulnerability to the OpenEMR Security Team.
-  - **Option 1 _(preferred)_**  : [Report the vulnerability at this link](https://github.com/openemr/openemr/security/advisories/new). See [Privately reporting a security vulnerability](https://docs.github.com/en/code-security/security-advisories/guidance-on-reporting-and-writing-information-about-vulnerabilities/privately-reporting-a-security-vulnerability#privately-reporting-a-security-vulnerability) for instruction on doing this.
-  - **Option 2**: Report the vulnerability by sending an email to the OpenEMR Security Team email at security@open-emr.org . If possible, please encrypt your email via PGP with this [public key](https://www.open-emr.org/files/openemr-security-pgp-key.asc).
+# Security Policy
+
+## Reporting Security Vulnerabilities
+
+If you discover a security vulnerability within BansaEMR, please do not report it publicly via GitHub issues. Instead, please report it responsibly to the development and security team.
+
+You can report vulnerabilities by sending an email to **security@medverselabs.com** (or your preferred B-Technologies triage email). 
+
+### What to Include in a Report:
+* A detailed description of the vulnerability.
+* Step-by-step instructions to reproduce the issue (or a proof-of-concept script).
+* The potential impact of the vulnerability on clinic data.
+
+We appreciate your help in keeping BansaEMR and our clinics secure.
