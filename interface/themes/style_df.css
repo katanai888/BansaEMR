@@ -1,0 +1,4 @@
+/* Global NarsEMR Font Overhaul */
+html, body, table, td, th, input, select, textarea, button, p, span, div {
+    font-family: Arial, Helvetica, sans-serif !important;
+}
