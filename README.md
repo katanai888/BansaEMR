@@ -1,3 +1,5 @@
+<img width="2000" height="1414" alt="BansaEMR (1)" src="https://github.com/user-attachments/assets/9c3ae897-7780-42be-ab0e-39c51996f538" />
+
 # BansaEMR
 
 BansaEMR: Filipino Dashboard EMR for small clinics and stand-alone medical centers. // BansaEMR para sa mga maliliit na klinika at hiwalay na mga medical center.
@@ -6,7 +8,7 @@ BansaEMR: Filipino Dashboard EMR for small clinics and stand-alone medical cente
 
 ## Project Overview
 
-BansaEMR is a specialized electronic medical records (EMR) and practice management solution engineered by Medverselabs. It is optimized specifically for the unique clinical and administrative workflows of independent healthcare facilities and small clinics across the Philippines. The system introduces a highly tailored user experience designed to make medical charting, scheduling, and clinic management intuitive, efficient, and accessible for local health workers.
+BansaEMR is a specialized electronic medical records (EMR) and practice management solution engineered by B-Technologies🇵🇭, acting as the ASEAN development arm of Medverse Labs. It is optimized specifically for the unique clinical and administrative workflows of independent healthcare facilities and small clinics across the Philippines. The system introduces a highly tailored user experience designed to make medical charting, scheduling, and clinic management intuitive, efficient, and accessible for local health workers.
 
 ### Key Features
 * Localization: Integrated EN/TL (English/Tagalog) global language framework across all core clinic and dashboard views.
@@ -41,3 +43,4 @@ To clone, build, and run BansaEMR locally, ensure you meet the prerequisite envi
 
   Developed and maintained by Medverse Labs.
   Portfolio: https://katusop.co
+  Contact for demo: kat@medverselabs.com
