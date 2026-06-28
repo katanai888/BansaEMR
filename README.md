@@ -1,5 +1,5 @@
 <img width="2000" height="1414" alt="BansaEMR (1)" src="https://github.com/user-attachments/assets/9c3ae897-7780-42be-ab0e-39c51996f538" />
-# BansaEMR
+
 
 ### Filipino Dashboard EMR for Small Clinics and Stand-alone Medical Centers
 **BansaEMR para sa mga maliliit na klinika at hiwalay na mga medical center.**
